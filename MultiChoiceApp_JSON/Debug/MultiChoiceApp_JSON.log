@@ -1,0 +1,115 @@
+﻿  MultiChoiceApp_JSON.cpp
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\QuestionJson.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(53,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(58,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(58,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(63,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(68,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(75,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(75,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(80,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(80,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(94,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(96,52): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(96,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(139,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(140,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(140,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(145,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(145,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(159,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(165,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(168,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(168,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(169,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(169,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(173,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(174,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(175,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(176,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(176,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(241,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(241,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(255,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(255,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(256,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GraphJson.h(256,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GameJson.h(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GameJson.h(55,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GameJson.h(84,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GameJson.h(121,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\diarm\source\repos\MultiChoiceApp_JSON\MultiChoiceApp_JSON\GameJson.h(189,21): warning C4018: '<': signed/unsigned mismatch
+  MultiChoiceApp_JSON.vcxproj -> C:\Users\diarm\source\repos\MultiChoiceApp_JSON\Debug\MultiChoiceApp_JSON.exe

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "ted",
+        "score": 5
+    },
+    {
+        "name": "anna",
+        "score": 1
+    },
+    {
+        "name": "sally",
+        "score": 5
+    },
+    {
+        "name": "joey",
+        "score": 2
+    },
+    {
+        "name": "tom",
+        "score": 4
+    },
+    {
+        "name": "bob",
+        "score": 0
+    },
+    {
+        "name": "tim",
+        "score": 1
+    }
+]
